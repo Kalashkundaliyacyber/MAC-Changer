@@ -1,4 +1,3 @@
-```markdown
 # MAC-CHANGER
 
 **MAC-CHANGER** is a Python-based tool that allows you to change the MAC address of a network interface. It can cycle through a list of MAC addresses and periodically update the network interface with a new one. This can be useful for privacy, security testing, or network diagnostics.
