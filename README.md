@@ -25,7 +25,8 @@
 
 3. Ensure Python is installed on your machine. You can install it from [Python's official website](https://www.python.org/).
 
-4. Create a file named `listmac` and populate it with the MAC addresses you want to cycle through. Each MAC address should be on a new line.
+4. A `listmac` file is already provided in the repository. You can modify it by adding or removing the MAC addresses you want to cycle through. Each MAC address should be on a new line.
+
 
 ## Usage
 
