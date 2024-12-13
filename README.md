@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your **MAC-CHANGER** software, detailing its features, usage, and linking to the custom license.
-
-### **README.md**
-
 ```markdown
 # MAC-CHANGER
 
